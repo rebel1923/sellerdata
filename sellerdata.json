@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "doc": "07/04/2021",
+        "email": "soni.prags@gmail.com",
+        "gstnumber": "23ECMPS6943E1Z9",
+        "name": "pragya soni",
+        "paymentnumber": "89829-22771",
+        "phonenumber": "89829-22771",
+        "products": "Clothing ",
+        "shopaddress": "34,betal marg,sundar dairy squre,freegunj, Ujjain",
+        "shopname": "shobhna the boutique",
+        "whatsappnumber": "8982922771"
+    },
+    {
+        "id": 2,
+        "doc": "22/03/2021",
+        "email": "rajwadicollactin@gmail.com",
+        "gstnumber": "NA",
+        "name": "dharmendra singh chouhan",
+        "paymentnumber": "9522222542",
+        "phonenumber": "9977990166",
+        "products": "Men Clothing",
+        "shopaddress": "18 ghatkapar marg freeganj ujjain",
+        "shopname": "rajwadicollaction",
+        "whatsappnumber": "9977990166"
+    },
+    {
+        "id": 3,
+        "doc": "15/03/2021",
+        "email": "lokeshalani99@gmail.com",
+        "gstnumber": "NA",
+        "name": "Mr. Lokesh Alani",
+        "paymentnumber": "7724844455",
+        "phonenumber": "7724844455",
+        "products": "Men's Wear",
+        "shopaddress": "In front of Rajkumar hotel, Bakhtawar Marg , Freeganj",
+        "shopname": "ManRek ",
+        "whatsappnumber": "7724844455"
+    },
+    {
+        "id": 4,
+        "doc": "22/03/2021",
+        "email": "NA",
+        "gstnumber": "NA",
+        "name": "Mr.Abdul Rashid",
+        "paymentnumber": "9926054457",
+        "phonenumber": "99260 54457",
+        "products": "Clothing ",
+        "shopaddress": "122 Main Road, Bherugarh",
+        "shopname": "Bherugarh Prints",
+        "whatsappnumber": "99260 54457"
+    },
+    {
+        "id": 5,
+        "doc": "30/03/2021",
+        "email": "Rishabhsurana517@gmail.com",
+        "gstnumber": "23DIHPS8081K2ZN",
+        "name": "Mr. Rishabh Surana",
+        "paymentnumber": "NA",
+        "phonenumber": "9131497263",
+        "products": "Bedsheets , Dress Material , Saree , Gown",
+        "shopaddress": "27, Chatri Chowk Bazar , Ujjain",
+        "shopname": "Shree Emporium",
+        "whatsappnumber": "9131497263"
+    },
+    {
+        "id": 6,
+        "doc": "15/3/21",
+        "email": "NA",
+        "gstnumber": "23AKEPA7450J1ZF",
+        "name": "Mr. Abdul Wajid",
+        "paymentnumber": "9827532078",
+        "phonenumber": "9827532078",
+        "products": "Home Decor",
+        "shopaddress": "Sindhi Colony Ujjain",
+        "shopname": "Decor & Style Home Interior",
+        "whatsappnumber": "9827532078"
+    }
+]
