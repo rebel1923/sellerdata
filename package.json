@@ -7,6 +7,9 @@
     "express": "^4.17.1",
     "hbs": "^4.1.2"
   },
+  "engines": {
+    "node" : "14.16.1"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "node sellerdata/index.js",
